@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">CalendarView</string>
+
+    <string name="descricao_selecao_visao_calendario">Selecione a visão do calendário</string>
+    <string name="visao_diaria">Dia</string>
+    <string name="visao_semanal">Semana</string>
+    <string name="visao_mensal">Mês</string>
+    
+    
+    <string name="desc_imagem_calendar">Descrição Imagem Calendário</string>
+    <string name="desc_imagem_calendar2">Descrição Imagem Calendário 2</string>
+    <string name="desc_imagem_calendar3">Descrição Imagem Calendário 3</string>
+
+	<style name="Dialog" parent="android:style/Theme.Dialog">
+	    <!-- 
+	    <item name="android:windowBackground">@color/raizen</item>
+         -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+    </style>
+    
+	<!-- 
+    <style name="DialogText">
+        <item name="android:textColor">#FF000000</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+ 
+    <style name="DialogText.Title">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+     -->
+</resources>

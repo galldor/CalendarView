@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="app_background">#047DBC</color>
+	<color name="background_color">#26466D</color>
+	<color name="background_header">#CD7F32</color>
+	<color name="disable_color">#DADADA</color>
+	<color name="raizen">#961a8d</color>
+	<color name="dark_blue">#32356b</color>
+	<color name="white">#FFFFFF</color>
+	<color name="red">#CC0000</color>
+    <color name="cinza">#aaa</color>
+    <color name="cinza_claro">#ddd</color>
+    <color name="text_label">#98D8FF</color>
+    <color name="dark_sepator">#696666</color>
+    <color name="black">#000000</color>
+    <color name="bg_raizen">#f7d117</color>
+    
+    <color name="word_bar">#FF0000</color>
+    <color name="number_bar">#00FF00</color>
+    <color name="pink_shell">#F6CCDA</color>
+</resources>

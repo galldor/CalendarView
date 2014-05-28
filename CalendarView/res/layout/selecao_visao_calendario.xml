@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<TextView 
+	    xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:id="@android:id/text1"
+    	android:layout_below="@id/relativeLayoutSelecaoVisao"
+    	android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+    	android:minHeight="?android:attr/listPreferredItemHeight" 
+    	android:textAppearance="?android:attr/textAppearanceSmall"
+    	android:textColor="@android:color/white"
+    	android:gravity="fill_vertical"
+    	android:ellipsize="none" 
+    	android:background="@color/cinza" />
+		
+	
+	<!--
+	
+    	android:paddingLeft="14dip"
+    	android:paddingRight="15dip"
+    	 -->
+    	
